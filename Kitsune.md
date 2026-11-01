@@ -1,4 +1,12 @@
-
+---
+difficulty: Easy
+os: Windows - Active Directory
+tags:
+  - ADCS
+  - Deserialization
+  - Backup-Operator-Abuse
+summary: Easy Active Directory box with ESC13, PowerShell object deserialization and Backup Operators abuse to dump NTDS.
+---
 # Overview
 
 Kitsune is an easy Active Directory environment authored by xjr (the goat), it features a single domain controller, password safe database, ESC13 to Helpdesk, powershell object deserialization and Backup Operators abuse to dump NTDS.

@@ -35,8 +35,7 @@
               "title": "Kitsune"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:web",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,11 +214,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "45f0ea54e9676f7f",
+  "active": "90d5dd3d75ed6974",
   "lastOpenFiles": [
-    "attachments/Pasted image 20261022224442.png",
-    "Casino.md",
     "Kitsune.md",
+    "Casino.md",
+    "attachments/Pasted image 20261022224442.png",
     "README.md",
     "attachments/Pasted image 20260824173022.png",
     "attachments/Pasted image 20260824172848.png",

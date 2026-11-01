@@ -1,3 +1,13 @@
+---
+difficulty: Medium
+os: Linux
+tags:
+  - Web
+  - SSTI
+  - Bash-History
+  - adm-group-abuse
+summary: Casino is a Medium difficulty Linux lab featuring SSTI for RCE, bash history revealing passwords and plaintext root password in logs.
+---
 # Overview
 
 Casino is a Medium difficulty Linux Lab on Tyler Ramsbey's Hack Smarter Labs. It features a leaked API to get login info -> Authenticating as any user to access /profile -> SSTI into RCE for a reverse shell as www-data -> access to both home directory users to read the user flag and bash history -> SSH as David and enumerate groups -> adm group to read /var/logs and access root password -> su to become root and read root flag.
