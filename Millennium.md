@@ -4,6 +4,8 @@ os: Windows - Active Directory
 tags:
   - ADWS
   - Shadow-Creds
+  - RBCD
+  - Silver-Ticket
 summary: A medium difficulty AD box where SMB and LDAP are practically blocked, making most of your usual tools useless.
 ---
 # Overview
