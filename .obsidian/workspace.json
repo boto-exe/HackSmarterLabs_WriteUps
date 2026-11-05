@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "5f7f63afff343769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Millennium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Millennium"
+            }
+          },
+          {
             "id": "45f0ea54e9676f7f",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Kitsune"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +228,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "90d5dd3d75ed6974",
+  "active": "3321d87a152d086b",
   "lastOpenFiles": [
-    "Casino.md",
+    "attachments/Pasted image 20261105205703.png",
+    "attachments/Pasted image 20261105204156.png",
     "Kitsune.md",
+    "Millennium.md",
+    "Casino.md",
     "attachments/Pasted image 20261022224442.png",
     "README.md",
     "attachments/Pasted image 20260824173022.png",
